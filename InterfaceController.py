@@ -1,7 +1,6 @@
 import PySimpleGUI as sg
 import DatabaseController
 import Utils
-import base64
 
 
 def main():
